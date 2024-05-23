@@ -1,0 +1,45 @@
+2024/05/13-15:23:50.377 5303 Reusing MANIFEST /Users/annanapolitano/Library/Application Support/Google/Chrome/Default/Session Storage/MANIFEST-000001
+2024/05/13-15:23:50.381 5303 Recovering log #980
+2024/05/13-15:23:50.382 5303 Reusing old log /Users/annanapolitano/Library/Application Support/Google/Chrome/Default/Session Storage/000980.log 
+2024/05/13-16:49:23.533 3103 Level-0 table #984: started
+2024/05/13-16:49:23.551 3103 Level-0 table #984: 20762 bytes OK
+2024/05/13-16:49:23.585 3103 Delete type=0 #980
+2024/05/14-08:52:32.950 3103 Level-0 table #986: started
+2024/05/14-08:52:32.971 3103 Level-0 table #986: 21594 bytes OK
+2024/05/14-08:52:33.002 3103 Delete type=0 #983
+2024/05/14-08:52:33.008 3103 Compacting 4@0 + 1@1 files
+2024/05/14-08:52:33.035 3103 Generated table #987@0: 112 keys, 37881 bytes
+2024/05/14-08:52:33.035 3103 Compacted 4@0 + 1@1 files => 37881 bytes
+2024/05/14-08:52:33.064 3103 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/05/14-08:52:33.065 3103 Delete type=2 #981
+2024/05/14-08:52:33.066 3103 Delete type=2 #984
+2024/05/14-08:52:33.066 3103 Delete type=2 #979
+2024/05/14-08:52:33.066 3103 Delete type=2 #986
+2024/05/14-08:52:33.066 3103 Delete type=2 #977
+2024/05/14-10:35:32.829 3103 Level-0 table #989: started
+2024/05/14-10:35:32.865 3103 Level-0 table #989: 25568 bytes OK
+2024/05/14-10:35:32.911 3103 Delete type=0 #985
+2024/05/14-12:01:33.790 3103 Level-0 table #991: started
+2024/05/14-12:01:33.806 3103 Level-0 table #991: 22972 bytes OK
+2024/05/14-12:01:33.840 3103 Delete type=0 #988
+2024/05/14-14:58:40.746 5303 Level-0 table #993: started
+2024/05/14-14:58:40.769 5303 Level-0 table #993: 21798 bytes OK
+2024/05/14-14:58:40.800 5303 Delete type=0 #990
+2024/05/14-17:14:05.382 5303 Level-0 table #995: started
+2024/05/14-17:14:05.421 5303 Level-0 table #995: 22867 bytes OK
+2024/05/14-17:14:05.466 5303 Delete type=0 #992
+2024/05/14-17:14:05.488 5303 Compacting 4@0 + 1@1 files
+2024/05/14-17:14:05.537 5303 Generated table #996@0: 266 keys, 82448 bytes
+2024/05/14-17:14:05.537 5303 Compacted 4@0 + 1@1 files => 82448 bytes
+2024/05/14-17:14:05.576 5303 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/05/14-17:14:05.578 5303 Delete type=2 #995
+2024/05/14-17:14:05.578 5303 Delete type=2 #991
+2024/05/14-17:14:05.578 5303 Delete type=2 #987
+2024/05/14-17:14:05.578 5303 Delete type=2 #993
+2024/05/14-17:14:05.578 5303 Delete type=2 #989
+2024/05/14-20:11:44.429 3103 Level-0 table #998: started
+2024/05/14-20:11:44.461 3103 Level-0 table #998: 27110 bytes OK
+2024/05/14-20:11:44.498 3103 Delete type=0 #994
+2024/05/15-09:34:03.720 4c33 Level-0 table #1000: started
+2024/05/15-09:34:03.780 4c33 Level-0 table #1000: 19852 bytes OK
+2024/05/15-09:34:03.853 4c33 Delete type=0 #997

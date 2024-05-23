@@ -1,0 +1,15 @@
+2024/05/19-13:50:43.817 6c03 Reusing MANIFEST /Users/annanapolitano/Library/Application Support/Google/Chrome/Default/WebStorage/69/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/05/19-13:50:43.820 6c03 Recovering log #7
+2024/05/19-13:50:43.825 6c03 Reusing old log /Users/annanapolitano/Library/Application Support/Google/Chrome/Default/WebStorage/69/IndexedDB/indexeddb.leveldb/000007.log 
+2024/05/19-14:13:00.034 6c03 Level-0 table #12: started
+2024/05/19-14:13:00.102 6c03 Level-0 table #12: 19880 bytes OK
+2024/05/19-14:13:00.163 6c03 Delete type=0 #7
+2024/05/19-14:13:00.204 6c03 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/05/19-14:13:00.210 6c03 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xf0\xbb\xe8 \xf9xB\x00\x03\x00\x00\x00\x00\x00\x003@' @ 677 : 1
+2024/05/19-14:13:00.210 6c03 Compacting 1@1 + 1@2 files
+2024/05/19-14:13:00.244 6c03 Generated table #13@1: 63 keys, 3857 bytes
+2024/05/19-14:13:00.246 6c03 Compacted 1@1 + 1@2 files => 3857 bytes
+2024/05/19-14:13:00.296 6c03 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/19-14:13:00.299 6c03 Delete type=2 #12
+2024/05/19-14:13:00.299 6c03 Delete type=2 #9
+2024/05/19-14:13:00.303 6c03 Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xf0\xbb\xe8 \xf9xB\x00\x03\x00\x00\x00\x00\x00\x003@' @ 677 : 1 .. (end); will stop at (end)

@@ -1,0 +1,27 @@
+2024/05/08-10:53:40.474 6c07 Creating DB /Users/annanapolitano/Library/Application Support/Google/Chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb since it was missing.
+2024/05/08-10:53:40.520 6c07 Reusing MANIFEST /Users/annanapolitano/Library/Application Support/Google/Chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/08-10:53:45.311 9203 Level-0 table #5: started
+2024/05/08-10:53:45.393 9203 Level-0 table #5: 1275297 bytes OK
+2024/05/08-10:53:45.418 9203 Delete type=0 #3
+2024/05/08-10:53:45.936 9203 Level-0 table #7: started
+2024/05/08-10:53:46.028 9203 Level-0 table #7: 1447889 bytes OK
+2024/05/08-10:53:46.056 9203 Delete type=0 #4
+2024/05/08-10:53:46.507 9203 Level-0 table #9: started
+2024/05/08-10:53:46.569 9203 Level-0 table #9: 737457 bytes OK
+2024/05/08-10:53:46.627 9203 Delete type=0 #6
+2024/05/08-10:53:46.645 9203 Compacting 1@0 + 1@1 files
+2024/05/08-10:53:46.810 9203 Generated table #10@0: 16090 keys, 2151528 bytes
+2024/05/08-10:53:46.824 9203 Generated table #11@0: 39 keys, 1477 bytes
+2024/05/08-10:53:46.825 9203 Compacted 1@0 + 1@1 files => 2153005 bytes
+2024/05/08-10:53:46.873 9203 compacted to: files[ 0 2 1 0 0 0 0 ]
+2024/05/08-10:53:46.874 9203 Delete type=2 #7
+2024/05/08-10:53:46.874 9203 Delete type=2 #9
+2024/05/08-10:53:46.927 6c07 Expanding@1 1+1 (2151528+1275297 bytes) to 2+1 (2153005+1275297 bytes)
+2024/05/08-10:53:46.927 6c07 Compacting 2@1 + 1@2 files
+2024/05/08-10:53:47.228 6c07 Generated table #12@1: 15867 keys, 2151153 bytes
+2024/05/08-10:53:47.435 6c07 Generated table #13@1: 8172 keys, 1255363 bytes
+2024/05/08-10:53:47.435 6c07 Compacted 2@1 + 1@2 files => 3406516 bytes
+2024/05/08-10:53:47.461 6c07 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/05/08-10:53:47.463 6c07 Delete type=2 #10
+2024/05/08-10:53:47.463 6c07 Delete type=2 #5
+2024/05/08-10:53:47.463 6c07 Delete type=2 #11

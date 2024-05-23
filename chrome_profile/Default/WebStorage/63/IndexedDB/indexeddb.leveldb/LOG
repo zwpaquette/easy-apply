@@ -1,0 +1,9 @@
+2024/05/15-10:00:57.029 6507 Reusing MANIFEST /Users/annanapolitano/Library/Application Support/Google/Chrome/Default/WebStorage/63/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/05/15-10:00:57.030 6507 Recovering log #15
+2024/05/15-10:00:57.038 6507 Reusing old log /Users/annanapolitano/Library/Application Support/Google/Chrome/Default/WebStorage/63/IndexedDB/indexeddb.leveldb/000015.log 
+2024/05/15-10:01:20.357 6c03 Compacting 1@1 + 1@2 files
+2024/05/15-10:01:20.382 6c03 Generated table #18@1: 51 keys, 30465 bytes
+2024/05/15-10:01:20.383 6c03 Compacted 1@1 + 1@2 files => 30465 bytes
+2024/05/15-10:01:20.421 6c03 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/15-10:01:20.422 6c03 Delete type=2 #16
+2024/05/15-10:01:20.422 6c03 Delete type=2 #13

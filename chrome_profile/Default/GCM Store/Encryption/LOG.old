@@ -1,0 +1,4 @@
+2024/05/13-15:23:55.479 6903 Reusing MANIFEST /Users/annanapolitano/Library/Application Support/Google/Chrome/Default/GCM Store/Encryption/MANIFEST-000001
+2024/05/13-15:23:55.480 6903 Recovering log #3
+2024/05/13-15:23:55.481 6903 (ignoring error) /Users/annanapolitano/Library/Application Support/Google/Chrome/Default/GCM Store/Encryption/000003.log: dropping 521 bytes; Corruption: checksum mismatch
+2024/05/13-15:23:55.481 6903 Reusing old log /Users/annanapolitano/Library/Application Support/Google/Chrome/Default/GCM Store/Encryption/000003.log 

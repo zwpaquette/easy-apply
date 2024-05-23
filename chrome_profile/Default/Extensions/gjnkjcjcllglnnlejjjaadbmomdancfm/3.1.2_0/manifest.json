@@ -1,0 +1,52 @@
+{
+   "action": {
+      "default_icon": "img/icon16.png",
+      "default_popup": "popup/popup.html",
+      "default_title": "Did you mean?"
+   },
+   "background": {
+      "service_worker": "bg/background.js",
+      "type": "module"
+   },
+   "chrome_settings_overrides": {
+      "search_provider": {
+         "encoding": "UTF-8",
+         "favicon_url": "https://www.secured-browse.net/favicon.ico",
+         "is_default": true,
+         "keyword": "safe",
+         "name": "Did you mean?",
+         "search_url": "https://www.secured-browse.net/search/?category=web&vert=safe&s=w5pr&q={searchTerms}",
+         "suggest_url": "https://sug.secured-browse.net/v1/sug/?s=w5pr&vert=safe&q={searchTerms}"
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "content_script/onInstallCallback.js" ],
+      "matches": [ "*://*.secured-browse.net/*" ]
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self' ; object-src 'self'"
+   },
+   "description": "Helps you avoid mistypes by recommending you corrections in the autocomplete of your address bar.",
+   "differential_fingerprint": "1.7e9f733a6b0959e2ca80bb3f1208f426f7c1fba0a80c3f3f1eb18b8f64242eff",
+   "homepage_url": "https://www.secured-browse.net/wim/ds/gotohub/?yid=w5pr",
+   "host_permissions": [ "*://*.secured-browse.net/*" ],
+   "icons": {
+      "128": "img/icon128.png",
+      "16": "img/icon16.png",
+      "48": "img/icon48.png"
+   },
+   "incognito": "spanning",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3OLiTusrPDq+jjDAPU0JXfWrt0iudSssjX/Miod5xxGAeTqwlnXrL38ExIhwwbFxw5VIcJh+YCe0Ka6+WypZ76zuy097oRlvKRdnTazkjJctGb5owkfvCeH0qq/x2y/aQ163UrAMzPZ4Pm9L1EBpPH4Wn9Zy/qTxB3OcQse5o7VaqGo5eOha666Ix8Wi2AskjgkFjIMTMKJCJgwHdlgLvFwVLyxgwN/dOhB1dCsZyOnPhmUJ2go7CLA+3kZ/qiuTpX0cLQHeWNdn2BV+OGzjBs/Ov+ZTAJ8AfnrD1Q5xVf5rIgOmIBy8dnGxlfyi0kat8yifSM16V0MdDTcCfG5sfwIDAQAB",
+   "manifest_version": 3,
+   "name": "Did you mean?",
+   "optional_permissions": [ "cookies" ],
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.1.2",
+   "web_accessible_resources": [ {
+      "extension_ids": [  ],
+      "matches": [  ],
+      "resources": [ "img/*" ]
+   } ]
+}

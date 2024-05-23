@@ -1,0 +1,67 @@
+2024/05/17-15:38:01.201 6c03 Reusing MANIFEST /Users/annanapolitano/Library/Application Support/Google/Chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/17-15:38:01.209 6c03 Recovering log #8
+2024/05/17-15:38:01.280 6c03 Reusing old log /Users/annanapolitano/Library/Application Support/Google/Chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000008.log 
+2024/05/17-15:38:08.332 6c03 Level-0 table #16: started
+2024/05/17-15:38:08.434 6c03 Level-0 table #16: 1919614 bytes OK
+2024/05/17-15:38:08.471 6c03 Delete type=0 #8
+2024/05/17-15:38:08.682 af03 Level-0 table #18: started
+2024/05/17-15:38:08.783 af03 Level-0 table #18: 1714139 bytes OK
+2024/05/17-15:38:08.820 af03 Delete type=0 #15
+2024/05/17-15:38:08.903 6c03 Level-0 table #20: started
+2024/05/17-15:38:08.999 6c03 Level-0 table #20: 887608 bytes OK
+2024/05/17-15:38:09.028 6c03 Delete type=0 #17
+2024/05/17-15:38:09.883 6c03 Compacting 2@0 + 1@1 files
+2024/05/17-15:38:10.071 6c03 Generated table #21@0: 25032 keys, 2152796 bytes
+2024/05/17-15:38:10.071 6c03 Level-0 table #23: started
+2024/05/17-15:38:10.205 6c03 Level-0 table #23: 653541 bytes OK
+2024/05/17-15:38:10.248 6c03 Delete type=0 #19
+2024/05/17-15:38:10.518 6c03 Generated table #24@0: 10238 keys, 1371853 bytes
+2024/05/17-15:38:10.518 6c03 Compacted 2@0 + 1@1 files => 3524649 bytes
+2024/05/17-15:38:10.551 6c03 compacted to: files[ 1 2 2 0 0 0 0 ]
+2024/05/17-15:38:10.553 6c03 Delete type=2 #16
+2024/05/17-15:38:10.553 6c03 Delete type=2 #20
+2024/05/17-15:38:10.553 6c03 Delete type=2 #18
+2024/05/17-15:38:10.592 6c03 Compacting 1@0 + 2@1 files
+2024/05/17-15:38:10.800 6c03 Generated table #25@0: 42522 keys, 873050 bytes
+2024/05/17-15:38:10.800 6c03 Compacted 1@0 + 2@1 files => 873050 bytes
+2024/05/17-15:38:10.838 6c03 compacted to: files[ 0 1 2 0 0 0 0 ]
+2024/05/17-15:38:10.839 6c03 Delete type=2 #21
+2024/05/17-15:38:10.840 6c03 Delete type=2 #23
+2024/05/17-15:38:10.840 6c03 Delete type=2 #24
+2024/05/17-15:38:10.864 af03 Compacting 1@1 + 2@2 files
+2024/05/17-15:38:10.930 af03 Generated table #26@1: 1107 keys, 424814 bytes
+2024/05/17-15:38:10.930 af03 Compacted 1@1 + 2@2 files => 424814 bytes
+2024/05/17-15:38:10.958 af03 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/17-15:38:10.959 af03 Delete type=2 #13
+2024/05/17-15:38:10.960 af03 Delete type=2 #12
+2024/05/17-15:38:10.960 af03 Delete type=2 #25
+2024/05/17-15:38:11.135 6c03 Level-0 table #28: started
+2024/05/17-15:38:11.240 6c03 Level-0 table #28: 1266336 bytes OK
+2024/05/17-15:38:11.281 6c03 Delete type=0 #22
+2024/05/17-15:38:11.323 6c03 Compacting 1@1 + 1@2 files
+2024/05/17-15:38:11.517 6c03 Generated table #29@1: 9210 keys, 1672150 bytes
+2024/05/17-15:38:11.517 6c03 Compacted 1@1 + 1@2 files => 1672150 bytes
+2024/05/17-15:38:11.544 6c03 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/17-15:38:11.545 6c03 Delete type=2 #28
+2024/05/17-15:38:11.545 6c03 Delete type=2 #26
+2024/05/17-15:38:11.768 6c03 Level-0 table #31: started
+2024/05/17-15:38:11.867 6c03 Level-0 table #31: 1447048 bytes OK
+2024/05/17-15:38:11.898 6c03 Delete type=0 #27
+2024/05/17-15:38:11.927 af03 Compacting 1@1 + 1@2 files
+2024/05/17-15:38:12.060 af03 Generated table #32@1: 10449 keys, 2137688 bytes
+2024/05/17-15:38:12.132 af03 Generated table #33@1: 4741 keys, 970320 bytes
+2024/05/17-15:38:12.133 af03 Compacted 1@1 + 1@2 files => 3108008 bytes
+2024/05/17-15:38:12.184 af03 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/05/17-15:38:12.186 af03 Delete type=2 #29
+2024/05/17-15:38:12.186 af03 Delete type=2 #31
+2024/05/17-15:38:13.029 6c03 Level-0 table #35: started
+2024/05/17-15:38:13.104 6c03 Level-0 table #35: 647912 bytes OK
+2024/05/17-15:38:13.145 6c03 Delete type=0 #30
+2024/05/17-15:38:13.218 6c03 Compacting 1@1 + 2@2 files
+2024/05/17-15:38:13.368 6c03 Generated table #36@1: 16540 keys, 2148596 bytes
+2024/05/17-15:38:13.670 6c03 Generated table #37@1: 9377 keys, 1592688 bytes
+2024/05/17-15:38:13.672 6c03 Compacted 1@1 + 2@2 files => 3741284 bytes
+2024/05/17-15:38:13.764 6c03 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/05/17-15:38:13.767 6c03 Delete type=2 #35
+2024/05/17-15:38:13.767 6c03 Delete type=2 #32
+2024/05/17-15:38:13.767 6c03 Delete type=2 #33

@@ -1,0 +1,15 @@
+2024/05/16-10:08:29.253 6507 Reusing MANIFEST /Users/annanapolitano/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.udemy.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/16-10:08:29.253 6507 Recovering log #7
+2024/05/16-10:08:29.255 6507 Reusing old log /Users/annanapolitano/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.udemy.com_0.indexeddb.leveldb/000007.log 
+2024/05/16-10:08:41.552 6c03 Level-0 table #12: started
+2024/05/16-10:08:41.564 6c03 Level-0 table #12: 3962 bytes OK
+2024/05/16-10:08:41.591 6c03 Delete type=0 #7
+2024/05/16-10:08:41.592 6c03 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/05/16-10:08:41.592 6c03 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x08\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 424 : 1
+2024/05/16-10:08:41.593 6c03 Compacting 1@1 + 1@2 files
+2024/05/16-10:08:41.604 6c03 Generated table #13@1: 89 keys, 2086 bytes
+2024/05/16-10:08:41.605 6c03 Compacted 1@1 + 1@2 files => 2086 bytes
+2024/05/16-10:08:41.634 6c03 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/16-10:08:41.634 6c03 Delete type=2 #12
+2024/05/16-10:08:41.634 6c03 Delete type=2 #9
+2024/05/16-10:08:41.641 6c03 Manual compaction at level-1 from '\x00\x02\x08\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 424 : 1 .. (end); will stop at (end)

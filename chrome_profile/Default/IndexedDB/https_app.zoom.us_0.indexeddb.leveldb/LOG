@@ -1,0 +1,15 @@
+2024/03/14-21:52:44.539 9007 Reusing MANIFEST /Users/annanapolitano/Library/Application Support/Google/Chrome/Default/IndexedDB/https_app.zoom.us_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/14-21:52:44.540 9007 Recovering log #4
+2024/03/14-21:52:44.543 9007 Reusing old log /Users/annanapolitano/Library/Application Support/Google/Chrome/Default/IndexedDB/https_app.zoom.us_0.indexeddb.leveldb/000004.log 
+2024/03/15-11:16:48.826 6903 Level-0 table #8: started
+2024/03/15-11:16:48.862 6903 Level-0 table #8: 233245 bytes OK
+2024/03/15-11:16:48.894 6903 Delete type=0 #4
+2024/03/15-11:16:48.923 6903 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/03/15-11:16:48.923 6903 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x01\x02\x018\x00P\x00W\x00A\x00_\x00C\x00H\x00A\x00T\x00_\x00R\x00E\x00C\x00E\x00N\x00T\x00_\x00C\x00H\x00A\x00T\x00-\x00d\x00d\x00-\x00l\x00m\x00m\x001\x005\x00t\x00j\x006\x00p\x00g\x00g\x00s\x00u\x00l\x00w\x00u\x00e\x00g\x00w\x00@\x00x\x00m\x00p\x00p\x00.\x00z\x00o\x00o\x00m\x00.\x00u\x00s' @ 4174 : 1
+2024/03/15-11:16:48.923 6903 Compacting 1@1 + 1@2 files
+2024/03/15-11:16:48.947 6903 Generated table #9@1: 281 keys, 20280 bytes
+2024/03/15-11:16:48.947 6903 Compacted 1@1 + 1@2 files => 20280 bytes
+2024/03/15-11:16:48.981 6903 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/03/15-11:16:48.982 6903 Delete type=2 #5
+2024/03/15-11:16:48.982 6903 Delete type=2 #8
+2024/03/15-11:16:48.988 6903 Manual compaction at level-1 from '\x00\x08\x01\x02\x018\x00P\x00W\x00A\x00_\x00C\x00H\x00A\x00T\x00_\x00R\x00E\x00C\x00E\x00N\x00T\x00_\x00C\x00H\x00A\x00T\x00-\x00d\x00d\x00-\x00l\x00m\x00m\x001\x005\x00t\x00j\x006\x00p\x00g\x00g\x00s\x00u\x00l\x00w\x00u\x00e\x00g\x00w\x00@\x00x\x00m\x00p\x00p\x00.\x00z\x00o\x00o\x00m\x00.\x00u\x00s' @ 4174 : 1 .. (end); will stop at (end)

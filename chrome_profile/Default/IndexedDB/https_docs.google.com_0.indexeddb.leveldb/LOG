@@ -1,0 +1,15 @@
+2024/05/17-15:38:16.356 6507 Reusing MANIFEST /Users/annanapolitano/Library/Application Support/Google/Chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/17-15:38:16.357 6507 Recovering log #4
+2024/05/17-15:38:16.357 6507 Reusing old log /Users/annanapolitano/Library/Application Support/Google/Chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000004.log 
+2024/05/17-15:55:58.788 6c03 Level-0 table #8: started
+2024/05/17-15:55:58.803 6c03 Level-0 table #8: 209 bytes OK
+2024/05/17-15:55:58.833 6c03 Delete type=0 #4
+2024/05/17-15:55:58.834 6c03 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/05/17-15:55:58.834 6c03 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 679 : 1
+2024/05/17-15:55:58.834 6c03 Compacting 1@1 + 1@2 files
+2024/05/17-15:55:58.848 6c03 Generated table #9@1: 206 keys, 3140 bytes
+2024/05/17-15:55:58.849 6c03 Compacted 1@1 + 1@2 files => 3140 bytes
+2024/05/17-15:55:58.878 6c03 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/17-15:55:58.915 6c03 Delete type=2 #5
+2024/05/17-15:55:58.915 6c03 Delete type=2 #8
+2024/05/17-15:55:58.917 6c03 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 679 : 1 .. (end); will stop at (end)

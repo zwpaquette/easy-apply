@@ -1,0 +1,6 @@
+2024/03/09-02:26:33.579 6807 Creating DB /Users/annanapolitano/Library/Application Support/Google/Chrome/Default/WebStorage/21/IndexedDB/indexeddb.leveldb since it was missing.
+2024/03/09-02:26:33.642 6807 Reusing MANIFEST /Users/annanapolitano/Library/Application Support/Google/Chrome/Default/WebStorage/21/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/03/09-13:14:54.204 8c03 Level-0 table #5: started
+2024/03/09-13:14:54.221 8c03 Level-0 table #5: 2469 bytes OK
+2024/03/09-13:14:54.246 8c03 Delete type=0 #3
+2024/03/09-13:14:54.248 8c03 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

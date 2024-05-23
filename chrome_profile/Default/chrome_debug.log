@@ -1,0 +1,86 @@
+[29111:259:0423/163702.356039:WARNING:chrome_main_delegate.cc(747)] This is Chrome version 124.0.6367.62 (not a warning)
+[29111:259:0423/163702.676649:INFO:chrome_browser_cloud_management_controller.cc(168)] Starting CBCM Controller Initialization
+[29111:259:0423/163702.676713:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[29111:259:0423/163702.716473:WARNING:browser_management_service.cc(128)] EnterpriseLogoUrl fetch failed with error code -1 and MIME type 
+[29122:259:0423/163703.145004:WARNING:runtime_features.cc(730)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[29123:259:0423/163703.205636:WARNING:runtime_features.cc(730)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[29131:259:0423/163704.639787:WARNING:runtime_features.cc(730)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[29133:259:0423/163704.862081:WARNING:runtime_features.cc(730)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[29131:30467:0423/163705.380789:INFO:peer_connection_dependency_factory.cc(708)] Running WebRTC with a combined Network and Worker thread.
+[29131:30467:0423/163705.649681:WARNING:codec.cc(515)] Explicitly added H264 constrained baseline to list of supported formats.
+[29118:21511:0423/163705.824513:ERROR:ssl_client_socket_impl.cc(879)] handshake failed; returned -1, SSL error code 1, net_error -100
+[29118:21511:0423/163705.845593:ERROR:ssl_client_socket_impl.cc(879)] handshake failed; returned -1, SSL error code 1, net_error -107
+[29111:259:0423/163706.086024:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[29111:259:0423/163706.086131:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[29111:27143:0423/163706.358654:ERROR:cert_verify_proc_builtin.cc(1052)] CertVerifyProcBuiltin for ponf.linkedin.com failed:
+----- Certificate i=0 (CN=ponf.linkedin.com,O=LinkedIn Corporation,L=Sunnyvale,ST=California,C=US) -----
+ERROR: Time is after notAfter
+
+
+[29118:21511:0423/163706.359185:ERROR:ssl_client_socket_impl.cc(879)] handshake failed; returned -1, SSL error code 1, net_error -201
+[29111:259:0423/163706.382488:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/ (0)
+[29111:259:0423/163706.382678:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/ (0)
+[29111:259:0423/163706.385654:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/ (0)
+[29111:259:0423/163706.385845:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/ (0)
+[29140:259:0423/163706.403628:WARNING:runtime_features.cc(730)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[29118:21511:0423/163706.542806:WARNING:host_resolver_dns_task.cc(834)] Address list empty after RFC3484 sort
+[29118:21511:0423/163706.544353:ERROR:socket_manager.cc(141)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[29131:30979:0423/163706.544554:WARNING:stun_port.cc(460)] Port[3f89400:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[29111:259:0423/163706.586107:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/ (0)
+[29111:259:0423/163706.586378:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/ (0)
+[29111:259:0423/163706.586474:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/ (0)
+[29111:259:0423/163706.586521:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/ (0)
+[29111:259:0423/163706.597518:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/ (0)
+[29111:259:0423/163706.597625:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/ (0)
+[29111:259:0423/163706.597700:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/ (0)
+[29111:259:0423/163706.622832:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/ (0)
+[29111:259:0423/163706.623000:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/ (0)
+[29111:259:0423/163706.637007:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/ (0)
+[29111:259:0423/163706.637115:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/ (0)
+[29111:259:0423/163706.637167:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/ (0)
+[29141:259:0423/163706.697225:WARNING:runtime_features.cc(730)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[29111:259:0423/163706.735163:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/ (0)
+[29111:259:0423/163706.735288:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/ (0)
+[29111:259:0423/163706.735366:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/ (0)
+[29111:259:0423/163706.735439:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/ (0)
+[29111:259:0423/163707.064989:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/ (0)
+[29111:259:0423/163707.065072:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/ (0)
+[29111:259:0423/163707.065222:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/ (0)
+[29111:259:0423/163708.376388:INFO:CONSOLE(89)] "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently", source: https://static.licdn.com/sc/h/53pvxhwnu4814i1e9beje3cqa (89)
+[29111:259:0423/163708.451484:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.", source:  (0)
+[29144:259:0423/163708.537175:WARNING:runtime_features.cc(730)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[29111:259:0423/163708.627445:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/checkpoint/challenge/AgGfFkFGqjRXIgAAAY8MrS5_cXF1K1g8XqTNWPZxadVdRtE4R2AnGI8_bNmTrACqIc_Jdxnd1a-GA4MRjqF206AQPefuBQ?ut=0IAB5CoM5lTHc1 (0)
+[29111:259:0423/163708.636035:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/checkpoint/challenge/AgGfFkFGqjRXIgAAAY8MrS5_cXF1K1g8XqTNWPZxadVdRtE4R2AnGI8_bNmTrACqIc_Jdxnd1a-GA4MRjqF206AQPefuBQ?ut=0IAB5CoM5lTHc1 (0)
+[29111:259:0423/163708.642814:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'document-domain'.", source:  (0)
+[29111:259:0423/163708.773542:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/checkpoint/challenge/AgGfFkFGqjRXIgAAAY8MrS5_cXF1K1g8XqTNWPZxadVdRtE4R2AnGI8_bNmTrACqIc_Jdxnd1a-GA4MRjqF206AQPefuBQ?ut=0IAB5CoM5lTHc1 (0)
+[29111:259:0423/163708.788866:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/checkpoint/challenge/AgGfFkFGqjRXIgAAAY8MrS5_cXF1K1g8XqTNWPZxadVdRtE4R2AnGI8_bNmTrACqIc_Jdxnd1a-GA4MRjqF206AQPefuBQ?ut=0IAB5CoM5lTHc1 (0)
+[29111:259:0423/163708.831561:INFO:CONSOLE(1)] "Error", source: https://client-api.arkoselabs.com/v2/2.4.7/enforcement.25d7cff7762b53a1c9d8277fa4f4225d.js (1)
+[29111:259:0423/163708.843824:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/checkpoint/challenge/AgGfFkFGqjRXIgAAAY8MrS5_cXF1K1g8XqTNWPZxadVdRtE4R2AnGI8_bNmTrACqIc_Jdxnd1a-GA4MRjqF206AQPefuBQ?ut=0IAB5CoM5lTHc1 (0)
+[29111:259:0423/163709.098707:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[29111:259:0423/163709.098794:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[29111:259:0423/163709.113569:INFO:CONSOLE(89)] "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently", source: https://static.licdn.com/sc/h/53pvxhwnu4814i1e9beje3cqa (89)
+[29111:259:0423/163709.152322:INFO:CONSOLE(89)] "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently", source: https://static.licdn.com/sc/h/53pvxhwnu4814i1e9beje3cqa (89)
+[29111:259:0423/163709.199766:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.audio_input.user_preference_ranking because media.default_audio_capture_device isn't registered or is empty
+[29111:259:0423/163709.199828:WARNING:capture_device_ranking.h(255)] Can't initialize the value of media.video_input.user_preference_ranking because media.default_video_capture_Device isn't registered or is empty
+[29111:259:0423/163709.390700:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/checkpoint/challenge/AgGfFkFGqjRXIgAAAY8MrS5_cXF1K1g8XqTNWPZxadVdRtE4R2AnGI8_bNmTrACqIc_Jdxnd1a-GA4MRjqF206AQPefuBQ?ut=0IAB5CoM5lTHc1 (0)
+[29111:259:0423/163709.433279:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/checkpoint/challenge/AgGfFkFGqjRXIgAAAY8MrS5_cXF1K1g8XqTNWPZxadVdRtE4R2AnGI8_bNmTrACqIc_Jdxnd1a-GA4MRjqF206AQPefuBQ?ut=0IAB5CoM5lTHc1 (0)
+[29111:259:0423/163709.439159:INFO:CONSOLE(1)] "[object XMLHttpRequest]", source: https://static.licdn.com/sc/h/3ccym139tjcwzmkys2s37zu6r (1)
+[29111:259:0423/163709.633201:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/checkpoint/challenge/AgGfFkFGqjRXIgAAAY8MrS5_cXF1K1g8XqTNWPZxadVdRtE4R2AnGI8_bNmTrACqIc_Jdxnd1a-GA4MRjqF206AQPefuBQ?ut=0IAB5CoM5lTHc1 (0)
+[29111:259:0423/163709.692163:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/checkpoint/challenge/AgGfFkFGqjRXIgAAAY8MrS5_cXF1K1g8XqTNWPZxadVdRtE4R2AnGI8_bNmTrACqIc_Jdxnd1a-GA4MRjqF206AQPefuBQ?ut=0IAB5CoM5lTHc1 (0)
+[29111:259:0423/163709.739431:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/checkpoint/challenge/AgGfFkFGqjRXIgAAAY8MrS5_cXF1K1g8XqTNWPZxadVdRtE4R2AnGI8_bNmTrACqIc_Jdxnd1a-GA4MRjqF206AQPefuBQ?ut=0IAB5CoM5lTHc1 (0)
+[29111:259:0423/163709.746710:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/checkpoint/challenge/AgGfFkFGqjRXIgAAAY8MrS5_cXF1K1g8XqTNWPZxadVdRtE4R2AnGI8_bNmTrACqIc_Jdxnd1a-GA4MRjqF206AQPefuBQ?ut=0IAB5CoM5lTHc1 (0)
+[29111:259:0423/163709.747106:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/checkpoint/challenge/AgGfFkFGqjRXIgAAAY8MrS5_cXF1K1g8XqTNWPZxadVdRtE4R2AnGI8_bNmTrACqIc_Jdxnd1a-GA4MRjqF206AQPefuBQ?ut=0IAB5CoM5lTHc1 (0)
+[29111:259:0423/163709.859227:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/checkpoint/challenge/AgGfFkFGqjRXIgAAAY8MrS5_cXF1K1g8XqTNWPZxadVdRtE4R2AnGI8_bNmTrACqIc_Jdxnd1a-GA4MRjqF206AQPefuBQ?ut=0IAB5CoM5lTHc1 (0)
+[29111:259:0423/163710.543998:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/checkpoint/challenge/AgGfFkFGqjRXIgAAAY8MrS5_cXF1K1g8XqTNWPZxadVdRtE4R2AnGI8_bNmTrACqIc_Jdxnd1a-GA4MRjqF206AQPefuBQ?ut=0IAB5CoM5lTHc1 (0)
+[29111:259:0423/163711.600443:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/checkpoint/challenge/AgGfFkFGqjRXIgAAAY8MrS5_cXF1K1g8XqTNWPZxadVdRtE4R2AnGI8_bNmTrACqIc_Jdxnd1a-GA4MRjqF206AQPefuBQ?ut=0IAB5CoM5lTHc1 (0)
+[29111:259:0423/163711.684207:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/checkpoint/challenge/AgGfFkFGqjRXIgAAAY8MrS5_cXF1K1g8XqTNWPZxadVdRtE4R2AnGI8_bNmTrACqIc_Jdxnd1a-GA4MRjqF206AQPefuBQ?ut=0IAB5CoM5lTHc1 (0)
+[29111:259:0423/163711.887599:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/checkpoint/challenge/AgGfFkFGqjRXIgAAAY8MrS5_cXF1K1g8XqTNWPZxadVdRtE4R2AnGI8_bNmTrACqIc_Jdxnd1a-GA4MRjqF206AQPefuBQ?ut=0IAB5CoM5lTHc1 (0)
+[29111:259:0423/163711.887686:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/checkpoint/challenge/AgGfFkFGqjRXIgAAAY8MrS5_cXF1K1g8XqTNWPZxadVdRtE4R2AnGI8_bNmTrACqIc_Jdxnd1a-GA4MRjqF206AQPefuBQ?ut=0IAB5CoM5lTHc1 (0)
+[29111:259:0423/163711.887781:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/checkpoint/challenge/AgGfFkFGqjRXIgAAAY8MrS5_cXF1K1g8XqTNWPZxadVdRtE4R2AnGI8_bNmTrACqIc_Jdxnd1a-GA4MRjqF206AQPefuBQ?ut=0IAB5CoM5lTHc1 (0)
+[29111:259:0423/163711.895101:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/checkpoint/challenge/AgGfFkFGqjRXIgAAAY8MrS5_cXF1K1g8XqTNWPZxadVdRtE4R2AnGI8_bNmTrACqIc_Jdxnd1a-GA4MRjqF206AQPefuBQ?ut=0IAB5CoM5lTHc1 (0)
+[29111:259:0423/163711.913459:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/checkpoint/challenge/AgGfFkFGqjRXIgAAAY8MrS5_cXF1K1g8XqTNWPZxadVdRtE4R2AnGI8_bNmTrACqIc_Jdxnd1a-GA4MRjqF206AQPefuBQ?ut=0IAB5CoM5lTHc1 (0)
+[29111:259:0423/163711.968786:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/checkpoint/challenge/AgGfFkFGqjRXIgAAAY8MrS5_cXF1K1g8XqTNWPZxadVdRtE4R2AnGI8_bNmTrACqIc_Jdxnd1a-GA4MRjqF206AQPefuBQ?ut=0IAB5CoM5lTHc1 (0)
+[29111:259:0423/163711.983166:INFO:CONSOLE(0)] "Third-party cookie will be blocked. Learn more in the Issues tab.", source: https://www.linkedin.com/checkpoint/challenge/AgGfFkFGqjRXIgAAAY8MrS5_cXF1K1g8XqTNWPZxadVdRtE4R2AnGI8_bNmTrACqIc_Jdxnd1a-GA4MRjqF206AQPefuBQ?ut=0IAB5CoM5lTHc1 (0)
+[29118:8711:0423/163713.913702:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:247 to client_task_runner_.
+[29118:8711:0423/163713.913793:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:247 to client_task_runner_.
+[29111:259:0423/163713.978895:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

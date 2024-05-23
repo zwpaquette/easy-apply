@@ -1,0 +1,15 @@
+2024/05/17-14:25:30.193 6507 Reusing MANIFEST /Users/annanapolitano/Library/Application Support/Google/Chrome/Default/IndexedDB/https_us-east-1.console.aws.amazon.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/17-14:25:30.194 6507 Recovering log #11
+2024/05/17-14:25:30.195 6507 Reusing old log /Users/annanapolitano/Library/Application Support/Google/Chrome/Default/IndexedDB/https_us-east-1.console.aws.amazon.com_0.indexeddb.leveldb/000011.log 
+2024/05/18-04:23:12.631 6c03 Level-0 table #16: started
+2024/05/18-04:23:12.646 6c03 Level-0 table #16: 2991 bytes OK
+2024/05/18-04:23:12.688 6c03 Delete type=0 #11
+2024/05/18-04:23:12.690 6c03 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/05/18-04:23:12.691 6c03 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x02\x01(\x00e\x00i\x00c\x00_\x00o\x00n\x00e\x00c\x00l\x00i\x00c\x00k\x00_\x00i\x00-\x000\x00c\x00b\x009\x00f\x006\x008\x001\x00a\x00d\x007\x009\x004\x001\x003\x007\x00e\x00_\x00h\x00o\x00s\x00t\x00k\x00e\x00y' @ 7566 : 1
+2024/05/18-04:23:12.691 6c03 Compacting 1@1 + 1@2 files
+2024/05/18-04:23:12.709 6c03 Generated table #17@1: 1870 keys, 60035 bytes
+2024/05/18-04:23:12.709 6c03 Compacted 1@1 + 1@2 files => 60035 bytes
+2024/05/18-04:23:12.741 6c03 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/18-04:23:12.741 6c03 Delete type=2 #16
+2024/05/18-04:23:12.742 6c03 Delete type=2 #13
+2024/05/18-04:23:12.749 6c03 Manual compaction at level-1 from '\x00\x04\x01\x02\x01(\x00e\x00i\x00c\x00_\x00o\x00n\x00e\x00c\x00l\x00i\x00c\x00k\x00_\x00i\x00-\x000\x00c\x00b\x009\x00f\x006\x008\x001\x00a\x00d\x007\x009\x004\x001\x003\x007\x00e\x00_\x00h\x00o\x00s\x00t\x00k\x00e\x00y' @ 7566 : 1 .. (end); will stop at (end)

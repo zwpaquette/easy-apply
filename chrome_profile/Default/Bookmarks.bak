@@ -1,0 +1,69 @@
+{
+   "checksum": "f302628f8e2db936938d5f1f85cee420",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13080076791221009",
+            "guid": "cec26a76-dde8-f9a4-afcc-f24d78023ac9",
+            "id": "12",
+            "name": "Bookmarks",
+            "type": "url",
+            "url": "chrome://bookmarks/"
+         }, {
+            "date_added": "13246424832829043",
+            "guid": "b4b17f19-69b5-47f7-9dee-89b83b2f369f",
+            "id": "15",
+            "name": "Zola Weddings",
+            "type": "url",
+            "url": "https://www.zola.com/wedding/manage/seating-chart/8b0fc53d-b87d-426a-8135-11f5f266681f"
+         }, {
+            "date_added": "13247863305698390",
+            "guid": "0e832e33-8027-4080-ae27-f6fe60323d53",
+            "id": "16",
+            "name": "Templett Designer",
+            "type": "url",
+            "url": "https://templett.com/design/#"
+         } ],
+         "date_added": "13215644214437791",
+         "date_modified": "13247863305698390",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks Bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13215644214438235",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other Bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13067033321549498",
+            "guid": "98dc0970-3a14-f18c-bd28-72210b8df58c",
+            "id": "10",
+            "name": "jolly lab mix",
+            "type": "url",
+            "url": "http://washingtondc.craigslist.org/nva/pet/4866234703.html"
+         }, {
+            "date_added": "13067033595883354",
+            "guid": "67270ca1-539a-f43e-b1e4-d72218c588c3",
+            "id": "11",
+            "name": "min pin woodbridge",
+            "type": "url",
+            "url": "http://washingtondc.craigslist.org/nva/pet/4868696949.html"
+         } ],
+         "date_added": "13215644214438243",
+         "date_modified": "13067033595883354",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile Bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Co4CCu0BCIiBAhLWARI8CAISOAoGCgJibRABEDMaEgkAqID1BeUFACEAqID1BeUFADIYChYIAhHTjUgFBuUFABgAIQAAAAAAAAAAEjwIAhI4CgYKAmJkEAAQMxoSCQCogPUF5QUAIQCogPUF5QUAMhgKFggCEdONSAUG5QUAGAAhAAAAAAAAAAAgAEiMhvb6pDBw+fnNlKIwkgFHCkUKFmFubm90YXRpb25fY2hyb21lX3N5bmMSBTUxIWJkGhIJAD07AAblBQARAD07AAblBQApcdRIBQblBQAwgPrsgeCg+QIqDhAAGAEgACgAMAA4AEAAEgAgASoYQkpjMmZqdElyMmNrb2RZdHBTY2Y0UT09EoACCAwS+wEKHE9hZXFTampVd1hsMlExMlAxOHd5UC9kczBMbz0Selo6QURxdEFaeHpIczd6TUNDMjhTY2hYSzdlUmVtYUNySS9MUmIwUUEzQXpjam01Nzd6a2g5MnpSU2liZU11bnJJV1dhTTlTdWJmcFZaeHh4TUkwVTRIc1l4V2RudUVDZWRienpkM2hQa3d2Z3ptejNha3lVczY2d1k9GAAgBigGMPWYzdS65/QCOPGt+oTkKUDNkdGdiC9KHEJaeHl3eWIwaitEMWpqWlR3VHdsbkxnV2ludz1aHyIduERUZXFDNjZVSWlwa3JXbzZ2RVViLzRkUHMyTT1lLZO4jxLMAQgBEscBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9Ek5aOkFEcXRBWnhFQWE0ZERvV3V5ZFp2TnZkUFhoaVdJRkRMNko5MkQyTGx0aHdLK3ROZmxmaXVGZ0NDZG4wUFllMVlTY256ZDJSbE40ZUcYACAAKAAwgbr21IPj5gI4AEAAShxVK0dHSXRaRURwWnNJU2xPVWFJVHVJTGRNbkk9WiYiJIAAAAAAAAAAd6T9WEXE1uhi4Jh3zezpg1j/fSNSrETFMExJfxLsAQgLEucBChxlUWE0VjROVEZiQ2dtR3U2YS9SemprS1NsTVk9EmZaOkFEcXRBWnh6SHM3ek1DQzI4U2NoWEs3ZVJlbWFWTmQxT2RxYTZyaEpJbW5oZkNubURzTHNVdzdvSGhyWFRnUnBnQkFlYXZ5aWdNNUxha1doN0hQcU9oc3FTMU85allBaVJnPT0YACAFKAUwlYP+1Lrn9AI498+7ubMpQLit0Z2IL0ocV0NiNjlGVGJuK3V5bkVFWkF6dC9oQ2JnNFBJPVofIh2yMEJiQ0ZWNkZEQm0yODQvMzdnRHpmZmF2QzUwPWX901O3Eq0CCA8SqAIKHGdnNzZnUGlEMC9vdDZlTjB4ckNIaDdOcW5mYz0SpgFaOkFEcXRBWnh6SHM3ek1DQzI4U2NoWEs3ZVJlbWFTZEdZWnkzVGFWaW8zcDJsRkE2eUcyZytXSW1rd3ZtL3BzSWJpL28xUGttczdRWUlWTUhhaFhrV0Q2NTQ3ekRsRThreTdFakRqOWE2d3BTbVJtQ2EwZXVBbGp1U3hQcTVSR2pzS3Y3eVRnWGhOckljNERJSVB3bW5zNXpwaXNsL045bDlIUT09GAAgBCgEMPWYzdS65/QCOMTm793PLkDt5u/dzy5KHE5rMk1UVGU4eFl2bEVoQ0ZlcVdDNTFLU3JBdz1aHyId3Es1TWp6c04zUWJrTHZTcDZIblBBaFdtbVo1Zz1lwNEOKBLrAQgKEuYBChw5KzNTOXhmbGFZTUlVc3laWTJqVGd6WEZzVDA9EmZaOkFEcXRBWnh6SHM3ek1DQzI4U2NoWEs3ZVJlbWFWTmQxT2RxYTZyaEpJbW5oZkNubURwb0ZzNjJUR1BUd2UwTXJDZXVFYTNYOVJYbEpmUkxNR3lMRWtGMXYwdVN1WVloeU53PT0YACAFKAUwlYP+1Lrn9AI40/CqubMpQLmt0Z2IL0ocSTRpemVkNmZtNFRUOGhlcEd5dlNmNTAzLzI4PVoeIhxka1pOdUZBdXpzOVNKdERPN2FvUUZaWmNQL1k9Zf3TU7cS5AEIAxLfAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp5QVJvSDNFYng1Lyt3QmU4WXd4QXhYOTcrRlVGbUx5QlJvYlF0OFFnRE9kbnBzMUp5MGpOelVvd1BzSkNtRnk2ZjUxQ214TFFqQi8vVTdrNFp3VTduZTdpc2hJUT09GAAgACgAMIG69tSD4+YCOABAAEocNzlsK0xSRVVwaWFFdkREK0c0M2NwWFN0d0JjPVomIiSAAAAAAAAAAIS089l/dxfYGhdz/JBuj4A5Jl8mYdIf04YZE38SrQIIEBKoAgocOWFRL1VWbEJQaE1XYWUyVWc5dHMyNUJROG5ZPRKmAVo6QURxdEFaeHpIczd6TUNDMjhTY2hYSzdlUmVtYVNkR1laeTNUYVZpbzNwMmxGQTZ5RzMwNVg2N2pXSFAxNHVOdDdOSXBna1JHZ05EYTU2L0QzS3ZpSEZmSWt0NDYzSzJjOXErZk9NQXVNTEFVelJ1ZDZWQmhCTTN5WXd2UVJBNkhkempLa0VNUStjZzhyLzRmeEtZZ0RTb29NZjlaWHZ3aGdnPT0YACAJKAkwsKyBwNyS+QI45Jvli9UuQMKFh5WjMEocbjZaU0tiMjBVT3NWNE56dnhBc2E3K1VJQUVjPVofIh3uOXVWOHUwVklTSlJIbnQzenowa3Niam9IdG5BPWV3BxMDEuQBCAIS3wEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaeUVhc2RjaG1kaXFlR1NrUElPeHkwcjNJOUdKU2xXeVBxN2RmQ2daT0h6Q3dydXpONWdpVmdXTjhiUlpTdWFPeDlDL2J0Y1VuZVNwRjdvWUxGeU8wRmVTZEIrZ0E9PRgAIAAoADCBuvbUg+PmAjgAQABKHDV1c3kvY3BmcGkxRXRvQkhEZ1hJczBxYjRyQT1aJiIkgAAAAAAAAADHLPdp9dvPEykUr9Tt6DDKOWr/o0hNMF3Ti8J/MAE=",
+   "version": 1
+}

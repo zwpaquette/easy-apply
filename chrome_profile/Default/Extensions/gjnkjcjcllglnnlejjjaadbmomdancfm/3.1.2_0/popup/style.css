@@ -1,0 +1,459 @@
+body {
+    margin: 0;
+}
+
+img {
+    max-width: 100%;
+}
+
+
+.popup {
+    position: relative;
+    width: 315px;
+    min-height: 524px;
+    font-family: 'Muli', sans-serif;
+    margin: 0;
+    background: url("../img/bg.svg") center/cover;
+    padding-bottom: 75px;
+}
+
+.first-row {
+    padding: 18px 0 18px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.block-bg {
+    background: #84DD63;
+    border-radius: 6px 0px 0px 6px;
+    width: 80px;
+    height: 35px;
+}
+
+
+input[type="text"],
+select {
+    height: 36px;
+    background-color: rgba(193, 197, 206, 0.3);
+    border: 1px solid rgba(147, 154, 171, 0.3);
+    border-radius: 6px;
+    color: #0A1637;
+    max-width: 159px;
+    box-sizing: border-box;
+}
+
+input[type="text"] {
+    padding: 6px 8px;
+    font-size: 18px;
+}
+
+::placeholder {
+    color: #0A1637;
+}
+
+.title {
+    color: #545454;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 140%;
+    text-align: center;
+}
+
+.title.small {
+    font-size: 18px;
+}
+
+.title.small.left {
+    text-align: left;
+}
+
+.title.small span {
+    font-weight: 400;
+}
+
+.content {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    color: #69747C;
+    margin: 0 15px 12px;
+}
+
+.learn-more {
+    text-align: center;
+    padding: 12px 24px 12px;
+}
+
+.learn-more-btn {
+    color: #FF5964;
+    text-decoration: underline;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.learn-more-btn:hover {
+    text-decoration: none;
+}
+
+.footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.footer-bar {
+    padding: 10px;
+    text-align: center;
+    border-top: 1px solid rgba(160, 171, 156, 0.2);
+    background: #fff;
+}
+
+.link-footer {
+    font-weight: 300;
+    font-size: 10px;
+    line-height: 13px;
+    color: #2A3C44;
+    text-decoration: none;
+    display: inline-block;
+    padding: 0 10px;
+    cursor: pointer;
+}
+
+
+.toggle {
+    position: relative;
+    height: 32px;
+    margin: 0;
+}
+
+a.tab-link {
+    flex: 0 0 50%;
+    text-align: center;
+    position: relative;
+    padding: 12px;
+    box-sizing: border-box;
+}
+
+a.tab-link:hover {
+    background: rgba(84,84,84,0.05);
+    border-radius: 0 !important;
+}
+
+a.tab-link svg {
+    pointer-events: none;
+}
+
+a.tab-link:first-child {
+    border-radius: 0 10px 0 0;
+}
+
+a.tab-link:last-child {
+    border-radius: 10px 0 0 0;
+}
+
+a.tab-link.active {
+    background: #fff;
+    overflow: hidden;
+}
+
+a.tab-link.active svg path {
+    fill: #FF5964;
+}
+
+a.tab-link.active:before {
+    content: "";
+    width: 50%;
+    height: 10px;
+    background: #FF5964;
+    display: inline-block;
+    position: absolute;
+    top: -5px;
+    border-radius: 5px;
+    transform: translateX(-50%);
+    left: 50%;
+}
+
+.tabs {
+    display: flex;
+    width: 100%;
+}
+
+.block-white {
+    background: #fff;
+    overflow: hidden;
+}
+
+input[type="checkbox"]:disabled {
+    background: #dddddd !important;
+    cursor: help;
+}
+
+input[type="checkbox"] {
+    background: #F3F3F3;
+    height: 32px;
+    width: 65px;
+    border-radius: 5px;
+    outline: none;
+    transition: 0.5s;
+    margin: 0;
+    cursor: pointer;
+    -webkit-appearance: none;
+}
+
+input:checked[type="checkbox"] {
+    background: linear-gradient(99.6deg, #84DD63 26.72%, #CBFF4D 99.55%), #F3F3F3;
+}
+
+input[type="checkbox"]:after {
+    content: 'Off';
+    position: absolute;
+    color: #B0BCAB;
+    left: auto;
+    right: 5px;
+    font-size: 13px;
+    font-weight: 900;
+    text-transform: uppercase;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+input:checked[type="checkbox"]:after {
+    content: 'On';
+    position: absolute;
+    color: #fff;
+    line-height: 22px;
+    left: 8px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+input[type="checkbox"]:before {
+    content: '';
+    height: 21px;
+    width: 21px;
+    position: absolute;
+    border-radius: 3px;
+    background: linear-gradient(128.49deg, rgba(84, 84, 84, 0.5) -35.37%, rgba(255, 255, 255, 0) 61.48%), #FFFFFF;;
+    border: 3px solid #fff;
+    transition: 0.5s;
+    left: 3px;
+    top: 50%;
+    transform: translateY(-50%);
+    box-shadow: 1px 1px 2px rgba(84, 84, 84, 0.15);
+}
+
+input:checked[type="checkbox"]:before {
+    left: 34px;
+}
+
+.select2-search--dropdown {
+    display: none;
+}
+
+.select2-container {
+    height: 36px;
+    width: 85px !important;
+    color: #0A1637;
+    font-size: 18px;
+}
+
+.select2-container .select2-selection--single {
+    height: 100%;
+    background-color: #ffffff;
+    border: 1px solid #ECEEEB;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 8px rgba(84, 84, 84, 0.1);
+    border-radius: 7px;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    height: 100%;
+    line-height: 34px;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 100%;
+    line-height: 34px;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow b {
+    left: 50%;
+    margin-left: -10px;
+    margin-top: -5px;
+    position: absolute;
+    top: 50%;
+    width: 0;
+    height: 0;
+    border: 0 solid transparent;
+    border-left-width: 5px;
+    border-right-width: 5px;
+    border-top: 8px solid #B0BCAB;
+
+}
+
+.select2-container--default.select2-container--open .select2-selection--single .select2-selection__arrow b {
+    transform: rotate(225deg);
+    border: 1px solid #0A1637;
+    margin-top: -2px;
+    border-top: 0;
+    border-left: 0;
+}
+
+.select2-results__option[aria-selected="true"] {
+    background-color: #ecedf0 !important;
+    color: #0A1637 !important;
+}
+
+.select2-container--default .select2-results>.select2-results__options {
+    max-height: 136px;
+}
+
+.select2-dropdown {
+    border: 0;
+    box-shadow: 2px 2px 8px rgba(84, 84, 84, 0.1);
+    border-radius: 7px;
+    padding: 7px;
+}
+
+.select2-results__option:not(:last-child) {
+    border-bottom: solid 1px #ECEEEB;
+}
+
+::-webkit-scrollbar{
+    height: 4px;
+    margin-right: 5px;
+    width: 4px;
+    background: transparent;
+}
+::-webkit-scrollbar-thumb{
+    background: rgba(10, 22, 55, 0.5);
+    border-radius: 10px;
+}
+
+.setting-row {
+    padding: 8px 24px;
+}
+
+.setting-wrap {
+    opacity: 0.5;
+    background: #fff;
+    padding: 10px 20px 30px;
+    margin-top: 35px;
+    border-top: 1px solid rgba(160, 171, 156, 0.2);
+    border-bottom: 1px solid rgba(160, 171, 156, 0.2)
+}
+
+.setting-wrap .select2-container {
+    width: 100% !important;
+    height: 40px;
+}
+
+.img-flag {
+    width: 30px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.setting-wrap .select2-selection__rendered,
+.setting-wrap .select2-selection__rendered > span{
+    height: 100%;
+    display: flex;
+}
+
+.setting-wrap .select2-container--default .select2-selection--single .select2-selection__rendered {
+    line-height: 36px;
+}
+
+.tab-block {
+    display: none;
+}
+
+.tab-block.active {
+    display: block;
+}
+
+.owl-carousel {
+    padding: 0 20px;
+    margin-top: 10px;
+    box-sizing: border-box;
+}
+
+.owl-carousel .owl-nav {
+    margin-top: 10px;
+    position: absolute;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    top: 38%;
+    left: 0;
+}
+
+.flex-justify {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.owl-theme .owl-nav [class*=owl-]:hover {
+    opacity: 0.7;
+    background: transparent;
+}
+
+.owl-theme .owl-nav [class*=owl-]:focus {
+    outline: none;
+}
+
+.permission {
+    font-size: 14px !important;
+}
+
+/* Tooltip container */
+.tooltip {
+    position: relative;
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 200px;
+    background-color: #000000;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    bottom: 114%;
+    left: 50%;
+    margin-left: -97px;
+
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 0.9s;
+}
+
+/* Tooltip arrow */
+.tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #2f2f2f transparent transparent transparent;
+    opacity: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}

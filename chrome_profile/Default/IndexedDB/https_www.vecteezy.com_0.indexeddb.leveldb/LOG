@@ -1,0 +1,6 @@
+2024/03/09-00:29:06.671 6807 Creating DB /Users/annanapolitano/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.vecteezy.com_0.indexeddb.leveldb since it was missing.
+2024/03/09-00:29:06.715 6807 Reusing MANIFEST /Users/annanapolitano/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.vecteezy.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/09-00:29:30.276 8c03 Level-0 table #5: started
+2024/03/09-00:29:30.296 8c03 Level-0 table #5: 363 bytes OK
+2024/03/09-00:29:30.328 8c03 Delete type=0 #3
+2024/03/09-00:29:30.334 8c03 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

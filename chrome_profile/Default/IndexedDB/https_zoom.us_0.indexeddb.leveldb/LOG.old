@@ -1,0 +1,7 @@
+2024/03/14-21:07:12.382 9007 Reusing MANIFEST /Users/annanapolitano/Library/Application Support/Google/Chrome/Default/IndexedDB/https_zoom.us_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/14-21:07:12.384 9007 Recovering log #3
+2024/03/14-21:07:12.386 9007 Reusing old log /Users/annanapolitano/Library/Application Support/Google/Chrome/Default/IndexedDB/https_zoom.us_0.indexeddb.leveldb/000003.log 
+2024/03/14-21:07:16.407 6903 Level-0 table #5: started
+2024/03/14-21:07:16.421 6903 Level-0 table #5: 807 bytes OK
+2024/03/14-21:07:16.468 6903 Delete type=0 #3
+2024/03/14-21:07:16.471 6903 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
